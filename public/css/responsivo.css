@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+    .back{
+        flex-direction: column;
+    }
+    .login{
+        flex: 1;
+    }
+    .welcome h2{
+        font-size: 1.6rem;
+        line-height: 1.5;
+    }
+    .welcome p{
+        font-size: 1rem;
+    }
+    .form{
+        flex: 4;
+    }
+    .form-welcome{
+        min-width: 90%;
+       }
+}
