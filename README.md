@@ -1,2 +1,2 @@
-# Esse foi o meu primeiro projeto no Checkpoint Css
+# Projeto de página de login, feito de acordo com as aulas da refatorando
 
